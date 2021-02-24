@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_silicon_labs_logo.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-hdpi\\silicon_labs_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_ambient.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_ambient.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_indeterminate_progress.xml.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icn_opened.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-hdpi\\icn_opened.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icn_magnetic_field.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-mdpi\\icn_magnetic_field.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_ambient.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xhdpi\\ic_ambient.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_silicon_labs_logo.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xxhdpi\\silicon_labs_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_temperature.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-hdpi\\ic_temperature.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_voc.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-mdpi\\ic_voc.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icn_magnetic_field.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xhdpi\\icn_magnetic_field.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_temperature.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_temperature.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_humidity.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_temperature.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xhdpi\\ic_temperature.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_humidity.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-mdpi\\ic_humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icn_opened.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-mdpi\\icn_opened.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\layout_sensor_items.xml.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\layout\\sensor_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_uv.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-hdpi\\ic_uv.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pressure.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_pressure.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_voc.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-hdpi\\ic_voc.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pressure.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-hdpi\\ic_pressure.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\layout_gatt_services_characteristics.xml.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_carbon_dioxide.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xhdpi\\ic_carbon_dioxide.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_uv.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xhdpi\\ic_uv.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\layout_listitem_device.xml.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pressure.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xhdpi\\ic_pressure.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xxhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_humidity.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xhdpi\\ic_humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_ambient.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-hdpi\\ic_ambient.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icn_opened.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xhdpi\\icn_opened.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_humidity.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-hdpi\\ic_humidity.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_voc.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_voc.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_voc.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xhdpi\\ic_voc.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pressure.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-mdpi\\ic_pressure.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bg.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-mdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sound_level.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xhdpi\\ic_sound_level.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_uv.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-mdpi\\ic_uv.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sound_level.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-hdpi\\ic_sound_level.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_opened.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xxhdpi\\icn_opened.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icn_magnetic_field.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-hdpi\\icn_magnetic_field.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icn_magnetic_field.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xxhdpi\\icn_magnetic_field.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_ambient.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-mdpi\\ic_ambient.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_carbon_dioxide.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-mdpi\\ic_carbon_dioxide.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sound_level.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_sound_level.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_silicon_labs_logo.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-mdpi\\silicon_labs_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_carbon_dioxide.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-hdpi\\ic_carbon_dioxide.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\layout_device_list.xml.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_uv.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_uv.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_silicon_labs_logo.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xhdpi\\silicon_labs_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_carbon_dioxide.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-xxhdpi\\ic_carbon_dioxide.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sound_level.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-mdpi\\ic_sound_level.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_temperature.png.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\drawable-mdpi\\ic_temperature.png"
+    },
+    {
+        "merged": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\build\\intermediates\\res\\merged\\debug\\menu_gatt_services.xml.flat",
+        "source": "C:\\Users\\ersu\\Silabs\\github\\SensorReader\\Application\\src\\main\\res\\menu\\gatt_services.xml"
+    }
+]

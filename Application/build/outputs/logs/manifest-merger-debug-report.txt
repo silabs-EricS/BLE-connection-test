@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:20:1-52:12
+INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:20:1-52:12
+INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:20:1-52:12
+INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:20:1-52:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\fb22875941ebe5f3d9e6c8b305f659aa\support-v13-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\8af126ddbcf187149719a781914d4288\support-v4-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\7636ff5900be5cb9465c13f67e0bc30a\cardview-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\6aa2a488e5605dd17fde0d340ff54c10\appcompat-v7-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\63d4bbf4a9f3b2e5af821de28699db07\constraint-layout-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\260d6c4345e5c1c7d8b30de07a7eb9ea\support-media-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\bc49b6bdeaeccab5962525507dc6ca11\support-fragment-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\352abd38f6156a066feabc1142dee69b\support-core-utils-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\ebefc5c2bdbe787aaa26c192e6b99f2f\animated-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\6562ab65a7e1ec83f1e40fdd212cce7b\support-core-ui-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\da70fa513e2c7ee8e702f731705aa765\support-vector-drawable-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\3cd7a5c8ea637d51c3e932b98b82fea4\support-compat-27.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\802474a942d350db795a7ca7ccf2a21e\runtime-1.0.3\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:20:1-52:12
+INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:20:1-52:12
+INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:20:1-52:12
+	package
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:21:5-50
+		INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:20:11-69
+	android:versionCode
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:34:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:35:5-78
+	android:name
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:35:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:36:5-80
+	android:name
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:36:22-78
+application
+ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:38:5-50:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\63d4bbf4a9f3b2e5af821de28699db07\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\63d4bbf4a9f3b2e5af821de28699db07\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:38:18-50
+	android:icon
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:39:9-45
+	android:theme
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:40:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:41:9-47:20
+	android:label
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:42:13-41
+	android:name
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:41:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:44:17-68
+	android:name
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:45:17-76
+	android:name
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:45:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:48:9-58
+	android:name
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:48:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:49:9-77
+	android:enabled
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:49:53-75
+	android:name
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml:49:18-52
+uses-sdk
+INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\fb22875941ebe5f3d9e6c8b305f659aa\support-v13-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\fb22875941ebe5f3d9e6c8b305f659aa\support-v13-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\8af126ddbcf187149719a781914d4288\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\8af126ddbcf187149719a781914d4288\support-v4-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\7636ff5900be5cb9465c13f67e0bc30a\cardview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\7636ff5900be5cb9465c13f67e0bc30a\cardview-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\6aa2a488e5605dd17fde0d340ff54c10\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\6aa2a488e5605dd17fde0d340ff54c10\appcompat-v7-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\63d4bbf4a9f3b2e5af821de28699db07\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\63d4bbf4a9f3b2e5af821de28699db07\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\260d6c4345e5c1c7d8b30de07a7eb9ea\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\260d6c4345e5c1c7d8b30de07a7eb9ea\support-media-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\bc49b6bdeaeccab5962525507dc6ca11\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\bc49b6bdeaeccab5962525507dc6ca11\support-fragment-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\352abd38f6156a066feabc1142dee69b\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\352abd38f6156a066feabc1142dee69b\support-core-utils-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\ebefc5c2bdbe787aaa26c192e6b99f2f\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\ebefc5c2bdbe787aaa26c192e6b99f2f\animated-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\6562ab65a7e1ec83f1e40fdd212cce7b\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\6562ab65a7e1ec83f1e40fdd212cce7b\support-core-ui-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\da70fa513e2c7ee8e702f731705aa765\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\da70fa513e2c7ee8e702f731705aa765\support-vector-drawable-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\3cd7a5c8ea637d51c3e932b98b82fea4\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\3cd7a5c8ea637d51c3e932b98b82fea4\support-compat-27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\802474a942d350db795a7ca7ccf2a21e\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\ersu\.gradle\caches\transforms-2\files-2.1\802474a942d350db795a7ca7ccf2a21e\runtime-1.0.3\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ersu\Silabs\github\SensorReader\Application\src\main\AndroidManifest.xml
